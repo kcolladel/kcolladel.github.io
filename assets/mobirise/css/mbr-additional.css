@@ -5,7 +5,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -484,10 +483,8 @@ h6,
 #header2-6 .mbr-section-title {
   text-align: center;
 }
-#features6-1 H4 {
-  text-align: center;
-  font-family: 'Lora', serif;
-  color: #232323;
+#content7-2 P {
+  text-align: left;
 }
 #social-buttons3-3 .mbr-section-title,
 #social-buttons3-3 .btn-social {
