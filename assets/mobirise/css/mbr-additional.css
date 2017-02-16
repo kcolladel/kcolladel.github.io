@@ -637,3 +637,9 @@ h6,
 #contacts1-c P {
   text-align: left;
 }
+#header1-o .mbr-section-title {
+  color: #cccccc;
+}
+#header1-o .mbr-section-lead {
+  color: #cccccc;
+}
